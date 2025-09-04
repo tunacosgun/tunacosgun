@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tunahan Coşgun</h1>
-<h3 align="center">Yaratıcı ve kullanıcı odaklı web deneyimleri tasarlayan geliştirici.</h3>
+<h3 align="center">Yaratıcı ve kullanıcı odaklı web deneyimleri kodlayan profesyonel geliştirici.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunacosgun&label=Profile%20views&color=0e75b6&style=flat" alt="tunacosgun" /> </p>
 
