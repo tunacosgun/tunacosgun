@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tunacosgun&label=Profile%20views&color=0e75b6&style=flat" alt="tunacosgun" /> </p>
 
-- 👨‍💻 All of my projects are available at [tunahancosgun.com](tunahancosgun.com) , [tunasoft.tech](tunasoft.tech)
+- 👨‍💻 All of my projects are available at [tunahancosgun.com](https://tunahancosgun.com) , [tunasoft.tech](https://tunasoft.tech)
 
 - 📫 How to reach me **cosguntunahan2010@gmail.com**
 
