@@ -6,9 +6,9 @@
 
 *Kullanıcı deneyimini merkeze alan, yaratıcı ve performanslı web çözümleri geliştiriyorum.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-tunahancosgun.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tunahancosgun.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tunahancosgun.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tunahancosgun.dev)
 [![Company](https://img.shields.io/badge/Company-tunasoft.tech-4CAF50?style=for-the-badge&logo=rocket&logoColor=white)](https://tunasoft.tech)
-[![Email](https://img.shields.io/badge/Email-cosguntunahan2010-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cosguntunahan2010@gmail.com)
+[![Email](https://img.shields.io/badge/Email-cosguntunahan2010-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tunahancosgun.dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tunacosgun&label=Profile%20views&color=0e75b6&style=flat)
 
