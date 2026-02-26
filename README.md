@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tunahancosgun.dev-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tunahancosgun.dev)&nbsp;
 [![Company](https://img.shields.io/badge/Tunasoft-tunasoft.tech-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://tunasoft.tech)&nbsp;
-[![Email](https://img.shields.io/badge/Contact-info@tunahancosgun.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tunahancosgun.dev)
+[![Email](https://img.shields.io/badge/Contact-info@tunahancosgun.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tunahancosgun.xyz)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tunacosgun&label=Profile%20Views&color=7C3AED&style=flat-square)&nbsp;
 ![Followers](https://img.shields.io/github/followers/tunacosgun?label=Followers&style=flat-square&color=7C3AED)
@@ -127,7 +127,7 @@ const tunahan: Engineer = {
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tunacosgun)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tunacosgun)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tunaasee)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/tunacosgun)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@tunacosgun)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/tunacosgun)
