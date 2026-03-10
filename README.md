@@ -7,7 +7,7 @@
 [![Email](https://img.shields.io/badge/Contact-info@tunahancosgun.dev-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tunahancosgun.xyz)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tunacosgun&label=Profile%20Views&color=7C3AED&style=flat-square)&nbsp;
-![Followers](30)
+![Followers](https://img.shields.io/github/followers/tunacosgun?label=Followers&style=flat-square&color=7C3AED)
 
 </div>
 
